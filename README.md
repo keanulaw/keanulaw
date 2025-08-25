@@ -9,7 +9,7 @@ I’m Shannon Keanu A. Yase, a team-oriented and communication-driven profession
 ## 💻 Skills & Tools
 - **Programming Languages:** Kotlin, JavaScript, React.js, React Native  
 - **Mobile Development:** Android Studio (Kotlin), React Native  
-- **Web Development:** React.js, Express.js, Stripe integration  
+- **Web Development:** React.js, Firebase, Stripe integration  
 - **Other Tools:** Photoshop, Video Editing  
 - **Soft Skills:** Teamwork, Adaptability, Active Listening, Communication  
 
