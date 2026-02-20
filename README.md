@@ -28,7 +28,7 @@ I’m Shannon Keanu A. Yase, a team-oriented and communication-driven profession
 ---
 
 ## 🎓 Education
-- **BS Information Technology** — UC Banilad (2020–Present)  
+- **BS Information Technology** — UC Banilad (2021–2025)  
 
 ---
 
