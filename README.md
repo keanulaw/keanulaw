@@ -33,7 +33,7 @@ I'm Shannon Keanu A. Yase, a developer passionate about building practical AI sy
 ## 🎓 Education & Certifications
 - **BS Information Technology** — University of Cebu – Banilad (2021–2025)
 - **Certifications:**
-  - AIOS Certification (In Progress)
+  - AIOS Certification
   - Cybersecurity Basics
   - Safe Spaces Act
 
